@@ -220,6 +220,7 @@
   }
   .job__desciption{
     margin: 0 16px;
+    text-align: center;
   }
   .job__name, .job__periodd{
     color: var(--color-light-grey);
@@ -540,5 +541,5 @@
   width: 300px;
 }
 .job__logo{
-  width: 200px;
+  width: 300px;
 }
